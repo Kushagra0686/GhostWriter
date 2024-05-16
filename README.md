@@ -1,4 +1,4 @@
-🔐 Introducing GhostWriter.py: Keylogger Script 📝
+### 🔐 Introducing GhostWriter.py: Keylogger Script 📝
 
 GhostWriter.py is a lightweight Python script designed to silently log keystrokes, providing insights into user activity. With minimal setup, it discreetly captures and records keystrokes, offering a simple yet effective way to monitor digital interactions.
 
@@ -7,7 +7,7 @@ GhostWriter.py is a lightweight Python script designed to silently log keystroke
 1. Clone the Repository:
 
    ```
-   $ git clone https://github.com/Kushagra0686/PRODIGY_CS_04.git
+   $ git clone https://github.com/Kushagra0686/GhostWriter
    ```
 
 2. Navigate to the Project Directory:
