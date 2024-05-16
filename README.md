@@ -13,7 +13,7 @@ GhostWriter.py is a lightweight Python script designed to silently log keystroke
 2. Navigate to the Project Directory:
 
    ```
-   $ cd PRODIGY_CS_04
+   $ cd GhostWriter 
    ```
 
 3. Execute the Script:
